@@ -1,2 +1,2 @@
-# BasicPythn
+# BasicPython
 Course Python
